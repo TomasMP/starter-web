@@ -1,0 +1,33 @@
+Common Commands
+
+View Directories: ls
+
+The ls (LiSt) lists files in different colors with full formatted text
+
+Create Directories: mkdir (directory name)
+
+The mkdir (MaKeDIRectory) command will create a directory.
+
+Change Directories: cd (/directory/location)
+
+The cd (ChangeDirectory) command will change from your current directory to any directory you specify.
+
+Copy Files/Directories: cp (file or directory name) (to directory or filename)
+
+The cp (CoPy) command will copy any files you specify. The cp -r command will copy any directories you specify.
+
+Remove Files/Directories: rm (file or directory name)
+
+The rm (ReMove) command will delete any filename you specify. The rm -r command will remove any directory you specify.
+
+Rename Files/Directories: mv (file or directory name)
+
+The mv (MoVe) command will rename/move any file or directory you specify.
+
+Find Files/Directories: locate (file or directory name)
+
+to go back to previous directory: cd ..(cd [space] ..)
+
+just for extra information
+
+source from http://linux.about.com/od/ubuntu_doc/a/ubudg24t7.htm
